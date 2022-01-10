@@ -32,6 +32,8 @@ While working with the code, select the code you do not like (if the code hurts 
 
 <img alt="Context menu" src="context-menu.png"/>
 
-"Report Technical Debt" tool windows will be opened. Specify the title (what's wrong with the code) and some description (why exactly the code is base? what is the correct way?). Click "It Hurts!" button. That's it, now your concern is shared with your teammates and available their IDEs and on workspace's dashboard. 
+"Report Techn Debt" tool windows will be opened. Specify the title (what's wrong with the code) and some description (why exactly the code is base? what is the correct way?). 
 
 <img alt="Report dialog" src="report-dialog.png"/>
+
+Click "It Hurts!" button in the . That's it, now your concern is shared with your teammates and available their IDEs and on workspace's dashboard. 
