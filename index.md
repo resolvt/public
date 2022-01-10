@@ -21,7 +21,7 @@ To start working with It Hurts you need to install plugin for your IDE.
 
 ### Intellij IDEA (and other Intellij Platform IDEs)
 #### Plugin installation
-You can install/download the plugin from JetBrains Makretplace: [here](https://plugins.jetbrains.com/plugin/18380-it-hurts-integration)
+You can install/download the plugin from JetBrains Makretplace: <a href="https://plugins.jetbrains.com/plugin/18380-it-hurts-integration" target="_blank">click here!</a>
 - After you have installed the plugin, go to Settings -> Tools -> ItHurts. 
 - Click Connect to It Hurts. You will be redirected to It Hurts, where if you are logged in, you will find an authorization code.
 - Put the authorization code into "Code" field the settings dialog and click "Ok".
