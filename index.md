@@ -36,4 +36,4 @@ While working with the code, select the code you do not like (if the code hurts 
 
 <img alt="Report dialog" src="report-dialog.png"/>
 
-Click "It Hurts!" button in the . That's it, now your concern is shared with your teammates and available their IDEs and on workspace's dashboard. 
+Click "It Hurts!" button in the . That's it, now your concern is shared with your teammates and available in their IDEs and on workspace's dashboard. 
