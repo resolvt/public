@@ -30,10 +30,24 @@ You can install/download the plugin from JetBrains Makretplace: <a href="https:/
 #### Reporting technical debt
 While working with the code, select the code you do not like (if the code hurts you, it is exactly the place you want to report to It Hurts). Right click on the selected code and choose "Report Tech Debt" in the context menu.
 
-<img alt="Context menu" src="context-menu.png"/>
+<img alt="Context menu" src="context-menu.png" width="700px"/>
 
 "Report Techn Debt" tool windows will be opened. Specify the title (what's wrong with the code) and some description (why exactly the code is base? what is the correct way?). 
 
-<img alt="Report dialog" src="report-dialog.png"/>
+<img alt="Report dialog" src="report-dialog.png" width="700px"/>
 
-Click "It Hurts!" button in the . That's it, now your concern is shared with your teammates and available in their IDEs and on workspace's dashboard. 
+Click "It Hurts!" button in the lower right corner of the tool window. That's it, now your concern is shared with your teammates.
+
+You _(and your teammates)_ can see that the line with the code is marked now:
+
+<img alt="Debt marked" src="marked.png" width="700px"/>
+
+Call **Show File Technical Debts** action (_Alt+Shift+H_ / Or use Intellij IDEA's Actions Search dialog), you can see that the debt record is now available in IDE:
+
+<img alt="Debt in IDE" src="debt-idea.png" width="700px"/>
+
+Navigate to <a href="https://ithurts.dev/dashboard">dashboard</a>, the debt is also visible there:
+
+<img alt="Debt on Dashboard" src="debt-dashboard.png" width="700px"/>
+
+
