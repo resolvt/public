@@ -38,7 +38,7 @@ While working with the code, select the code you do not like (if the code hurts 
 
 Click "It Hurts!" button in the lower right corner of the tool window. That's it, you have just posted the first technical debt report and it's shared with your team.
 
-You can see that the line with the code is marked now:
+You can see that the line you reported on is marked now:
 
 <img alt="Debt marked" src="marked.png" width="700px"/>
 
