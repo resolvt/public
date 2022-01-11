@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
-title: It Hurts
-description: Technical debt manager
+remote_theme: poole/lanyon
+
