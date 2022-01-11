@@ -11,7 +11,7 @@ This article describes how to start to work with It Hurts in a few steps.
 ## Connect It Hurts to your codebase
 Sign in to It Hurts with one of supported  source code hosting services (currently, only Bitbucket is supported), then click "Create workspace" on the dashboard right-top menu. You will be redirected to  Bitbucket where you will see It Hurts for Bitbucket app authorization dialog. Choose workspace/organization you want It Hurts connected to. As soon as you grant It Hurts access to your repositories, your It Hurts workspace is created.
 
-<img alt="Bitbucket grant access dialog" src="bitbucket-grant-access.png" height="450px" />
+<img alt="Bitbucket grant access dialog" src="bitbucket-grant-access.jpg" height="450px" />
 
 > **Note:** Unfortunately, for now, It Hurts for Bitbucket is not listed in Atlassian Marketplace, that's why you will need to enable development mode for your Bitbucket Cloud workspace to connect It Hurts to it. (If it is the case for you, Bitbucket will show you corresponding warning)
 
