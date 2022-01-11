@@ -1,8 +1,7 @@
 ---
-title: It Hurts
+title: Getting started with It Hurts
 ---
 
-# Getting started with It Hurts
 **It Hurts** is a technical debt manager. It lives right in your IDE so you can share your concerns about the code with your teammates without leaving it. It adds great visibility of existing problems when you are working with the code.
 
 Also, It Hurts integrates with your code repositories, keeping track of repositories events and automatically updates the debt records, trying to keep everything up-to-date.
